@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Thinking About Design"
 date: 2025-04-22
-published: false
+published: true
 labels:
   - Design Patterns
   - Software Engineering
