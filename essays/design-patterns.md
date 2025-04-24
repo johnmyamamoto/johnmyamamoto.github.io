@@ -14,7 +14,7 @@ In my own words, design patterns are the structure and logical order with which 
 
 I suppose a metaphor to use for design patterns could be like a blueprint. The software engineer references their "blueprint" and it gives them a structure to work with, and makes sure that the code checks certain boxes. 
 
-![](img/designpatterns/blueprint.jpeg)
+![](../img/designpatterns/blueprint.jpeg)
 
 ## My Design Pattern Experience
 For me personally, I haven't intentionally used many design patterns yet. But upon further reflection, I have actually used a design pattern of writing all of my code for the profile page of my Gym-Meet project in one page.tsx file. I don't know if it is a good design pattern, but it is the way that I am programming, and it is something to reflect on and potentially change. Another design pattern I have implemented in my code is using a consistent color scheme in my project. It is something that everyone does, but it is another example of a design pattern. 
