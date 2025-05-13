@@ -2,14 +2,14 @@
 layout: essay
 type: essay
 title: "Is Effort Tracking Worth the Effort?"
-date: 2025-05-09
+date: 2025-05-12
 published: true
 labels:
-  - Estimation Tracking
+  - Effort Tracking
   - Software Engineering
 ---
 
-## Project Estimation Tracking
+## Project Effort Tracking
 Recently, I have had to keep track of estimated and actual time spent working on a software project that I have worked on for a class. However, this was not my first time using estimates and actuals to keep track of my work. For my senior year in high school and my freshman year in college, I have dilligently kept google docs which listed my assignments for the week and for each day, and the day before or morning of assignments being due, I would put time estimates for how long each assignment would take that day so that I had an understanding of how to manage my time well. It allowed me to be dilligent about my time, and also to feel gratification of looking back and realizing how much work I had put in. So this assignment feels very familiar to me. Actually, I have stopped keeping track of my work time since my freshman year, and my grades have actually gone down some since then. While this decrease in grade point average could have been due to other factors, I cannot help but acknowledge that the estimation and actuals data that I kept actually helped me. 
 
 ## What was my technique in tracking effort?
