@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Reflection on AI Usage"
 date: 2025-05-12
 published: true
 labels:
@@ -24,16 +24,10 @@ In the Software Engineering course I took this semester: ICS 314, there were man
 7. Answering a question in class or in Discord: I didn't use AI in this area either because I didn't do either of those things in this class. 
 8. Asking or answering a smart-question: I haven't answered any smart-questions this semester, but when looking at one of the answers related to the Playwright tests in the #smart-questions channel, I pasted it into Chat GPT and asked it to help me write tests using those instructions. I actually created a lot more work for myself by following those instructions, but chat was helpful in at least aiding me in what I was trying to do, so the benefits outweighted the costs. 
 9. Coding example e.g."give an example of using Underscore.pluck": I used Chat GPT quite a bit in asking for coding examples, mostly during WODs or when coding, not so much for the sake of purely learning it. An example of me asking Chat for a coding example is "how does every work in ts?" I think that this is one of the ways that AI helps my learning the most, becuase it allows me to think on my own and to modify the code for my own uses, but it gives me a good starting place to work with. 
-10. Explaining Code: There weren't any specific 
-
-## Impact on Learning and Understanding
-
-## Practical Applications
-
-## Challenges and Opportunities
-
-## Comparative Analysis
+10. Explaining Code: There wasn't much opportunity to explain code in the class, so I didn't use AI in this category. 
 
 ## Future Considerations
+I think that there is a huge future for AI in education. It can hold someone's hand while they are learning something, and allow them to ask questions in a personal way that no other educational resource provides besides a one-on-one tutor. And this tutor is very very knowlegable. I'm not too sure how AI will advance and how that will impact education. Perhaps it could improve its memory capability in order to have more ongoing discussions about certain projects that someone is working on. 
 
 ## Conclusion
+In conclusion, I felt like AI was very helpful in my learnng of software engineering. Without it, I couldn't have completed my final project, and even though I didn't necessarily write everything myself, heck there was actually very little that I wrote by myself for the final project, I still learned a lot by being exposed to the things that Chat GPT was doing, so that in the future I will be able to rely less on AI. In my opinion, AI was a great learning tool this semester, and I would like to continue using it to grow as a software engineer and overall computer specialist. 
