@@ -24,19 +24,19 @@ This was my first software development project ever, so just completing it in th
 
 ## What the Project Looks Like
 
-![](img/ics314final/landingpage-wip2.png)
+![](/img/ics314final/landingpage-wip2.png)
 
-![](img/ics314final/signuppage-wip1.png)
+![](/img/ics314final/signuppage-wip1.png)
 
-![](img/ics314final/loginpage-wip2.png)
+![](/img/ics314final/loginpage-wip2.png)
 
-![](img/ics314final/aboutupdated.png)
+![](/img/ics314final/aboutupdated.png)
 
-![](img/ics314final/profilepage-wip2.png)
+![](/img/ics314final/profilepage-wip2.png)
 
-![](img/ics314final/explorepage.png)
+![](/img/ics314final/explorepage.png)
 
-![](img/ics314final/calendarupdated.png)
+![](/img/ics314final/calendarupdated.png)
 
 ## Github Organization Page with Source Code
 Here is the Gym-Meet github [organization page](https://github.com/gym-meet) so you can look at our source code and everything that went into the project. 
