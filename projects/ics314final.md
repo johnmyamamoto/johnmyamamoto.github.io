@@ -13,8 +13,6 @@ labels:
 summary: "The Gym-Meet app is designed to connect UH Manoa students with each other to make the gym experience less daunting and more enjoyable."
 ---
 
-# Gym-Meet
-
 ## Overview
 During this project, my team and I (Jarell, Raine, Kathryn, Kimberly, and myself) designed and implemented an app that connects UH gym-goers with others so that they can go to the gym together. It seeks to solve the problem of students feeling intimidated of going to the gym by themselves, so this app seeks to give people support when going to the gym. It allows people to create and customize accounts, and friend other people who are registered for the app. If users wish, they can add their contact information to their profiles for other people to contact them to go to the gym together. 
 
