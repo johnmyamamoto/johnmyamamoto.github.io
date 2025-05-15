@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Moving Forward in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-14-05
+date: 2025-05-14
 published: true
 labels:
   - Software Engineering 
