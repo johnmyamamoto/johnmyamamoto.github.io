@@ -24,19 +24,23 @@ This was my first software development project ever, so just completing it in th
 
 ## What the Project Looks Like
 
-<img src="../img/ics314final/landingpage-wip2.png" alt="Landing Page" width="600"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<img src="../img/ics314final/signuppage-wip1.png" alt="Signup Page" width="600"/>
+  <img src="../img/ics314final/landingpage-wip2.png" alt="Landing Page" style="width: 45%; max-width: 600px;"/>
 
-<img src="../img/ics314final/loginpage-wip2.png" alt="Login Page" width="600"/>
+  <img src="../img/ics314final/signuppage-wip1.png" alt="Signup Page" style="width: 45%; max-width: 600px;"/>
 
-<img src="../img/ics314final/aboutupdated.png" alt="About Page" width="600"/>
+  <img src="../img/ics314final/loginpage-wip2.png" alt="Login Page" style="width: 45%; max-width: 600px;"/>
 
-<img src="../img/ics314final/profilepage-wip2.png" alt="Profile Page" width="600"/>
+  <img src="../img/ics314final/aboutupdated.png" alt="About Page" style="width: 45%; max-width: 600px;"/>
 
-<img src="../img/ics314final/explorepage.png" alt="Explore Page" width="600"/>
+  <img src="../img/ics314final/profilepage-wip2.png" alt="Profile Page" style="width: 45%; max-width: 600px;"/>
 
-<img src="../img/ics314final/calendarupdated.png" alt="Calendar Page" width="600"/>
+  <img src="../img/ics314final/explorepage.png" alt="Explore Page" style="width: 45%; max-width: 600px;"/>
+
+  <img src="../img/ics314final/calendarupdated.png" alt="Calendar Page" style="width: 45%; max-width: 600px;"/>
+
+</div>
 
 ## Github Organization Page with Source Code
 Here is the Gym-Meet github [organization page](https://github.com/gym-meet) so you can look at our source code and everything that went into the project. 
