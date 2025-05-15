@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "First Thoughts on Bootstrap 5"
 date: 2025-02-27
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap 5

@@ -4,7 +4,7 @@ type: project
 image: img/skatevideo/skate2.png
 title: "Skate Video"
 date: 2022-09-09
-published: true
+published: false
 labels:
   - Video Production
 summary: "I spent a year filming and editing a skateboarding video of myself with the help of my friends and family who helped to film me."
