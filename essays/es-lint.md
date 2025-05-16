@@ -5,8 +5,8 @@ title: "ESLint: Worth it or Not?"
 date: 
 published: true
 labels:
-  -ESLint
-  -Coding Standards
+  - ESLint
+  - Coding Standards
 ---
 
 ## Comparing Coding to Skateboarding
