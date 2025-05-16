@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Intro To Athletic Typescripting"
+title: "Intro To Athletic Typescript Writing"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-21
 published: true
@@ -13,7 +13,7 @@ labels:
 <html>
 <div>
  <p>
-   I am quite new to Typescript. My experience is unique in that I actually took a month of the course I am taking right now, ICS 314 at UH Manoa last semester, but dropped out because of mental health reasons. So I have about a month's worth of ICS 314 Typescript/Javascript experience from this class and nothing before that. From what I have seen so far, Typescript is a great language. I think that it is not only an effective language for building the front-end side of web applications, but also very useful for backend, mobile app, and desktop development. Typescript can be used in a plethora of ways. There are a lot of frameworks for it such as React and Next.js, and it is very compatible with Javascript code, so developers don't have to make a huge leap from JS to TS, but can make a gradual transition over instead. The widesperead usage of Typescript makes it easy to find resources for it, and the type safety that it provides only improves Javascript code in my opinion.
+   I am quite new to Typescript. My experience is unique in that I actually took a month of the course I am taking right now, ICS 314 at UH Manoa last semester, but dropped out because of mental health reasons. So I have about a month's worth of ICS 314 Typescript/Javascript experience from this class and nothing before that. From what I have seen so far, Typescript is a great language. I think that it is not only an effective language for building the front-end side of web applications, but also very useful for backend, mobile app, and desktop development. Typescript can be used in a plethora of ways. There are a lot of frameworks for it such as React and Next.js, and it is very compatible with Javascript code, so developers don't have to make a huge leap from JS to TS, but can make a gradual transition over instead. The widespread usage of Typescript makes it easy to find resources for it, and the type safety that it provides only improves Javascript code in my opinion.
  </p>   
 </div>
 
@@ -22,7 +22,7 @@ labels:
 <div>
   <h3>Hopes for Typescript</h3>
   <p>
-  In my software engineering class, I am excited to work on a front-end project in Typescript. I am excited to write Typescript code that forms a tangible and hopefully useful product. I believe we are also using   Typescript with node.js for back-end development for that project as well. I am excited to get my hands dirty with Typescript. My hope is that after this class, I will have a solid foundation that I can build off of to complete other projects in Typescript. I hope to experience using Typescript in different areas such as back-end and desktop development. Someday, I would love to write Typescript code as part of my career. 
+  In my software engineering class, I am excited to work on a front-end project in Typescript. I am excited to write Typescript code that forms a tangible and hopefully useful product. I believe we are also using Typescript with node.js for back-end development for that project as well. I am excited to get my hands dirty with Typescript. My hope is that after this class, I will have a solid foundation that I can build off of to complete other projects in Typescript. I hope to experience using Typescript in different areas such as back-end and desktop development. Someday, I would love to write Typescript code as part of my career. 
   </p> 
 </div>
 
