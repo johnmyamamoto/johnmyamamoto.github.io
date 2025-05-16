@@ -6,8 +6,8 @@
     "email": "johny777@hawaii.edu",
     "phone": "808-476-9308",
     "website": "https://johnmyamamoto.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2027.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "johnmyamamoto", "url": "http://github.com/johnmyamamoto" },
       { "network": "linkedin", "username": "John Yamamoto", "url": "http://linkedin.com/in/John Yamamoto" }
@@ -16,13 +16,13 @@
   "interests": [
     { "name": "Computer Networking" },
     { "name": "Software Engineering" },
-    { "name": "Cybersecurity" },
+    { "name": "Automation Technology" },
     { "name": "Information Technology" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Java"]
+      "keywords": ["Java", "C/C++", "Bootstrap 5", "JavaScript"]
     },
     {
       "name": "Toolsets/OS",
@@ -32,11 +32,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "area": "Computer Science (expected Fall, 2027)",
       "studyType": "B.A.",
       "startDate": "2023-08-26",
       "endDate": "Present",
-      "courses": ["ICS 111", "ICS 211"
+      "courses": ["ICS 111", "ICS 141", "ICS 211", "ICS 241", "ICS 314", "ICS 212"
       ]
     }
   ],
@@ -47,10 +47,11 @@
       "website": "",
       "startDate": "2023-06-28",
       "endDate": "Present",
-      "summary": "Working in the summers for the company's helpdesk, handling small hardware projects for the company, and studying and practicing computer networking.",
+      "summary": "At Finance Factors I am currently working the Help Desk and setting up automation for reports. In the past I have helped switch the company from landlines to VoIP telephones, done security patches, practiced switch configuration, built and deployed Windows 11 laptops and desktops, and more.",
       "highlights": [
         "Consistently provided clients with fast, detailed, and quality help with hardware, applications, and account management and creation.",
-        "Diligently worked with IT team to complete large-scale e-waste and VoIP switchover projects for the company"
+        "Efficiently built and deployed Windows 11 laptops to clients with quality customer service.",
+        "Led and worked on a large-scale e-waste project."
       ]
     }
   ],
